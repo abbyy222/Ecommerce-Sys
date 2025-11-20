@@ -115,14 +115,7 @@ A modern, full-stack e-commerce platform with integrated delivery management sys
 - [ ] Payment confirmation
 - [ ] Refund processing
 
-#### **Advanced Features**
-- [ ] Push notifications
-- [ ] SMS notifications
-- [ ] Email templates
-- [ ] Multi-vendor support
-- [ ] Discount codes and promotions
-- [ ] Shipping cost calculation
-- [ ] Multiple delivery addresses
+
 
 ---
 
@@ -289,13 +282,6 @@ The application will run on:
 - [ ] Invoice generation
 - [ ] Refund system
 
-### Phase 5: Advanced Features (Future)
-- [ ] Email notifications
-- [ ] SMS alerts
-- [ ] Analytics dashboard
-- [ ] Multi-vendor support
-- [ ] Promotions and discounts
-- [ ] Loyalty program
 
 ---
 
